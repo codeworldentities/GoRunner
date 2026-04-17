@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v6333 -->
+<div class="styles-—-stylesheet-definitions-6333">
+  <header class="wrapper">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-6333">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="container">
+    <div class="panel">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-6333">v6333</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-6333 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 18px;
+  padding: 20px;
+  background: #f25679;
+  border-radius: 5px;
+  border: 1px solid #ad60be;
+}
+.styles-—-stylesheet-definitions-6333 .wrapper {
+  color: #f658a6;
+  font-size: 18px;
+  font-weight: 400;
+}
+.badge-6333 {
+  background: #ad60be;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 7px;
+  font-size: 13px;
+}
+</style>
